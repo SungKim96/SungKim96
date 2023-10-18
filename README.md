@@ -1,7 +1,7 @@
 ### <h1>Hello, I'm Sung 👋 </h1>
 <p>Welcome to my profile! I'm someone who used to study psychology and sociology, but the pandemic sparked a new passion in me – coding! I taught myself HTML5, CSS, JavaScript, and React.js by working on hands-on projects. Eager to enhance my skills, I am continuing to learn and broaden my horizons. I'm excited to share my journey! </p>
 <div>
- <p>My Tech Skills:</p>
+ <b>My Tech Skills:</b>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=CSS&logoColor=black"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS&logoColor=black"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=CSS&logoColor=black"/>
