@@ -1,12 +1,13 @@
 ### Hello, I'm Sung 👋
 <hr/>
+<div>
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black"/>
  <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=black"/>
  <img src="https://img.shields.io/badge/React router-CA4245?style=flat-square&logo=Recoil&logoColor=black"/>
  <img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom&logoColor=black"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS&logoColor=black"/>
-
+</div>
 <!--
 **SungKim96/SungKim96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
